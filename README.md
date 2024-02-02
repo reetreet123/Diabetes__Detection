@@ -1,4 +1,6 @@
-# Diabetes__DetectionUsing various machine learning algorithms to get the best prediction accuracy if possible for the Pima Indians dataset.
+# Diabetes__Detection
+
+Using various machine learning algorithms to get the best prediction accuracy if possible for the Pima Indians dataset.
 
 The best result was found with GradientBoosting with an accuracy of 83%.
 
